@@ -3,7 +3,7 @@
 import com.example.tutorial.AddressBookProtos.AddressBook;
 import com.example.tutorial.AddressBookProtos.Person;
 import java.io.FileInputStream;
-import java.io.IOException;
+//import java.io.IOException;
 import java.io.PrintStream;
 
 class ListPeople {
